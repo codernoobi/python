@@ -1,0 +1,13 @@
+1 - introduction
+2 - create connection
+3 - create db
+4 - table
+5 - insert
+6 - select
+7 - where
+8 - order by
+9 - delete
+10 - drop table
+11 - update
+12 - limit
+13 - join
