@@ -1,0 +1,6 @@
+1 - intro
+2 - numpy
+3 - numpy_statics
+4 - matplotlib
+5 - visulization
+6 - pandas

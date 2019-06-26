@@ -1,0 +1,6 @@
+1 - intro
+2 - pandas1
+3 - representation
+4 - txtimgwav
+5 - wrangling
+6 - visualization
