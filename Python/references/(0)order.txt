@@ -1,0 +1,7 @@
+1 - built in functions
+2 - string methods
+3 - list methods
+4 - dict methods
+5 - tuple methods
+6 - set methods
+7 - key words

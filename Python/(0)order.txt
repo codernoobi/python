@@ -1,0 +1,13 @@
+0 - workshop
+1 - introduction
+2 - file_handling
+3 - my_sql
+4 - references
+5 - data science
+6 - GC
+7 - NLP
+8 - Practice
+9 - Scholar
+10 - Project
+11 - course_lynda
+99 - 

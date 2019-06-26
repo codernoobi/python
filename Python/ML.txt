@@ -1,0 +1,6 @@
+Linear Regression - Drawing a linearity by reducing errors in each itirations
+Naive Bayes - catagorizing based on some features like key words etc
+Decision trees
+Logistic Regression - drw multiple lines based on the result expected
+Neural Networks 
+Clustering
