@@ -1,0 +1,18 @@
+1 - test
+2 - string
+3 - operators
+4 - list
+5 - tuple
+6 - sets
+7 - dictionaries
+8 - ifelse
+9 - loops
+10 - functions
+11 - array
+12 - class_objects
+13 - iterators
+14 - modules
+15 - dates
+16 - json
+17 - pip
+18 - exception handling
