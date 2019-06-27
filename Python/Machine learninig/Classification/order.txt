@@ -1,0 +1,6 @@
+intro
+evaluationmetrices
+KNN
+decision tree
+logistic regression
+SVM
