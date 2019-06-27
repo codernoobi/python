@@ -1,0 +1,23 @@
+machine learning applications
+algorithms
+
+Python lib
+numpy - mathematical
+scipy - scientifical
+matplotlib - plot 2d, 3d
+pandas
+scikitlearn - contains algorithms for ml
+designed to work with numpy scipy
+Most of the tasks that need to be done in a machine learning pipeline are implemented
+already in scikit learn, including, pre-processing of data, feature selection, feature extraction,
+train/test splitting, defining the algorithms, fitting models, tuning parameters, prediction,
+evaluation, and exporting the model
+
+
+supervised
+labled data
+ml algo for classfication, regression
+
+unsupervised
+unlabled data
+use clustering

@@ -1,0 +1,23 @@
+use regression methods to predict a continuous value
+regression is the process of predicting a continuous value
+In regression there are two types of variables: a dependent variable and one or more independent
+variables
+The dependent variable(Y) can be seen as the "state", "target" or "final goal" we study
+and try to predict, and the independent variables(X), also known as explanatory variables, can be
+seen as the "causes" of those "states"
+
+linear regression
+Simple linear regression is when one independent variable is used to estimate
+a dependent variable
+When more than one independent variable is
+present, the process is called multiple linear regression
+
+the error is the distance from the data point to the fitted regression line
+Mathematically, it can be shown by the equation, mean squared error(MSE)
+find a line where the mean of all these errors is minimized
+minimize MSE
+
+using a mathematic formula to find the θ0 and θ1.(y=mx+c   m=theta1  c=theta0)
+It also doesn’t require tuning of parameters. So, something like tuning the K parameter
+in K-Nearest Neighbors or the learning rate in Neural Networks isn’t something to worry
+about. Linear Regression is also easy to understand

@@ -1,0 +1,4 @@
+simple regression
+multiple linear regression
+evaluation metrices
+non linear regression
