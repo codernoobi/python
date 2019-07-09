@@ -49,4 +49,4 @@ while not done:
             done = True
 
         if event.type == pygame.KEYDOWN and event.key == pygame.K_s:
-            play_sound(r"C:\Users\I353296\Documents\git VS\python\Python\pygame_eg\lion2.wav")
+            play_sound(r"C:\Users\I353296\Documents\git VS\python\Python\pygame_eg\lion2.wav")s
