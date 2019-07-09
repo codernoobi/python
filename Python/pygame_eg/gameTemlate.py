@@ -21,6 +21,6 @@ def eventHandler():
             quit()
 
 #game loop
-while True:
+while True:    
     eventHandler()
     pygame.display.update()
