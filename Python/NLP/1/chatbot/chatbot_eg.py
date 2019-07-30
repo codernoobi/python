@@ -7,7 +7,7 @@ bot=ChatBot('test')					#create the chatbot
 bot.set_trainer(ListTrainer)		#set the trainer
 
 
-chats=open("chats.txt","r").readlines()		#read the file
+chats=open(r"C:\Users\I353296\Documents\git VS\python\Python\NLP\1\chatbot\chats.txt","r").readlines()		#read the file
 bot.train(chats)		#TRAIN THE BOT
 
 """
