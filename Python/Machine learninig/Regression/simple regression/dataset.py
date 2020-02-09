@@ -4,7 +4,7 @@ import pylab as pl
 import numpy as np
 import matplotlib
 
-df = pd.read_csv('FuelConsumption.csv')
+df = pd.read_csv(r'C:\Users\I353296\Documents\git VS\python\Python\Machine learninig\Regression\simple regression\FuelConsumption.csv')
 
 # take a look at the dataset
 df.head()

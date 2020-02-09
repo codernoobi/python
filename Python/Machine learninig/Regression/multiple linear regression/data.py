@@ -4,7 +4,7 @@ import pylab as pl
 import numpy as np
 from sklearn import linear_model
 
-df = pd.read_csv("FuelConsumption.csv")
+df = pd.read_csv(r"C:\Users\I353296\Documents\git VS\python\Python\Machine learninig\Regression\multiple linear regression\FuelConsumption.csv")
 
 # take a look at the dataset
 df.head()
@@ -35,6 +35,12 @@ y = np.asanyarray(train[['CO2EMISSIONS']])
 regr.fit (x, y)
 # The coefficients
 print ('Coefficients: ', regr.coef_)
+
+plt.scatter(train.ENGINESIZE, train.CO2EMISSIONS,  color='blue')
+plt.plot(x, regr.coef_[0][0]*x + regr.intercept_[0], '-r')
+plt.xlabel("Engine size")
+plt.ylabel("Emission")
+plt.show()
 
 #Prediction
 y_hat= regr.predict(test[['ENGINESIZE','CYLINDERS','FUELCONSUMPTION_COMB']])
